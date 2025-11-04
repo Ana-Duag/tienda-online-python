@@ -1,4 +1,4 @@
-# PRUEBA TÉCNICA PYTHON
+# Prueba Técnica Python
 
 Este repositorio contiene la resolución de la prueba técnica correspondiente al módulo 1 del **Bootcamp de Análisis de Datos de Adalab (Agosto 2025)**, realizada por **Ana Pilar Dueñas Agudo**.
 
